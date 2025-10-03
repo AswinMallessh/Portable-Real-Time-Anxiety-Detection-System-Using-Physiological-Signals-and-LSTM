@@ -24,6 +24,8 @@ Sensor data is captured by an **ESP32**, sent to **Firebase**, and processed by 
 3. **Firebase** stores both real-time and historical entries  
 4. **Raspberry Pi** fetches data, preprocesses, runs LSTM model  
 5. **Output**: Displays anxiety/rest state + logs results
+- Architecture Diagram:  
+  ![Architecture Diagram](docs/images/architecture.png)
 
 ---
 
