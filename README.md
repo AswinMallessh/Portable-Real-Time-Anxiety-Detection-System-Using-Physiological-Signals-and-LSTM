@@ -82,10 +82,8 @@ pip install tensorflow firebase-admin requests numpy
 
 ---
 
-## 👥 Contributors
-- Prakalya D (21MIS1010)  
-- Aswin Mallessh N S (21MIS1087)  
-- Hemavarshini R (21MIS1136)  
+## 👥 Contributor
+- Aswin Mallessh N S (21MIS1087)   
 
 ---
 
