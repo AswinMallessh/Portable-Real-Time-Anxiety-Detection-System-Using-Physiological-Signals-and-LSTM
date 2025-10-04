@@ -6,7 +6,7 @@
 // ------------------- WiFi & Firebase Config -------------------
 #define WIFI_SSID "1122"
 #define WIFI_PASSWORD "123456789"
-#define API_KEY "AIzaSyDzilqZeUP13VwBxbMFc8PDLjBAggCvepM"
+#define API_KEY "Apikey"
 #define DATABASE_URL "https://iot-esp-pi-gateway-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
 // ------------------- Sensor Pin Config -------------------
